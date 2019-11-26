@@ -19,7 +19,7 @@ description:
   This is a blog of someone passionate about AI technology
  
 baseurl: /gatok
-github_username:  alainpham
+github_username:  HighTechCoder
 
 # jekyll-paginate configuration
 paginate: 10
