@@ -18,7 +18,7 @@ name: Shin Ji Hoon's Blog
 description: 
   This is a blog of someone passionate about AI technology
  
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /gatok
 github_username:  alainpham
 
 # jekyll-paginate configuration
