@@ -18,7 +18,7 @@ name: Shin Ji Hoon's Blog
 description: 
   This is a blog of someone passionate about AI technology
  
-baseurl: /gatok
+baseurl: 
 github_username:  HighTechCoder
 
 # jekyll-paginate configuration
@@ -26,6 +26,7 @@ paginate: 10
 
 # Build settings
 markdown: kramdown
+baseurl: /gatok
 #theme: minima
 plugins:
   - jekyll-feed
